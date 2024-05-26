@@ -12,9 +12,9 @@ const ibmPlexSerif = IBM_Plex_Serif({
 export const metadata: Metadata = {
   title: "Financio",
   description: "Financio is a modern banking app.",
-  icons: {
-    icon: "/icons/logo.png"
-  }
+  // icons: {
+  //   icon: "/icons/logo.png"
+  // }
 };
 
 export default function RootLayout({
